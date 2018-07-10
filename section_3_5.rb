@@ -1,9 +1,11 @@
-x = [ 3 , 4 , 9 , 6 , 2 ]
+array = [12,13,11,14,10]
 
-max = 0
-x.length.times { |i|
-	if max < x[ i ]
-		max = x[ i ]
+max = array[0]
+
+array.length.times { |i|
+	if max < array[i]
+		max = array[i]
 	end
 }
-printf( "配列xの中で最大値は%dです\n" , max )
+
+puts "最大値は#{max}です"
