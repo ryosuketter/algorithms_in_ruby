@@ -2,7 +2,7 @@
 
 [「アルゴリズムを、はじめよう」](http://amzn.asia/cIWWV4C)
 
-<img src="book.jpg" width="250px">
+<img src="images/book.jpg" width="250px">
 
 # problem-1
 - theme: 配列の最大値の探すアルゴリズム
