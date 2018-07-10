@@ -6,4 +6,4 @@
 
 # problem-1
 - theme: 配列の最大値の探すアルゴリズム
-- file name is "section_3_5.rb"
+- file name is [section_3_5.rb](section_3_5.rb)
