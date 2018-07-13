@@ -10,6 +10,6 @@
 - [article on Qiita](https://qiita.com/ryosuketter/items/76b3ee72ff2af0779404)
 
 # problem-2
-- theme: 探索アルゴリズム
+- theme: 探索アルゴリズム / 線形探索法（リニアサーチ）
 - file name is [section_4.rb](section_4.rb)
 - [article on Qiita](https://qiita.com/ryosuketter/items/4c03f0c1ac95582415c6)
