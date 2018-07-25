@@ -13,3 +13,8 @@
 - theme: 探索アルゴリズム / 線形探索法（リニアサーチ）
 - file name is [section_4.rb](section_4.rb)
 - [article on Qiita](https://qiita.com/ryosuketter/items/4c03f0c1ac95582415c6)
+
+# problem-3
+- theme: 探索アルゴリズム / 二分探索法（バイナリサーチ）
+- file name is [section_5.rb](section_5.rb)
+- [article on Qiita](二分探索法（バイナリサーチ）)
