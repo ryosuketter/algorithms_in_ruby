@@ -17,4 +17,4 @@
 # problem-3
 - theme: 探索アルゴリズム / 二分探索法（バイナリサーチ）
 - file name is [section_5.rb](section_5.rb)
-- [article on Qiita](二分探索法（バイナリサーチ）)
+- [article on Qiita](https://qiita.com/ryosuketter/items/2798b09330e7102b6cfe)
